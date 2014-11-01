@@ -6,4 +6,5 @@ Ejemplo simple de Web Services, donde se puede retornar valores de una base de d
 Para instalar MongoDB se puede a través del link http://docs.mongodb.org/manual/installation/
 
 La base de datos está en la carpeta db y se llama tweet.json, para importarla debe aplicarse el siguiente comando en la carpeta mencionada:
-	$ mongoimport -d TSD -c tweetList --file tweet.json
+	
+   	$ mongoimport -d TSD -c tweetList --file tweet.json
